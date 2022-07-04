@@ -29,7 +29,7 @@ h1 {
 }
 
 .hero {
-  background-image: url("/images/top-banner.png");
+  background-image: url("images/top-banner.png");
   background-repeat: no-repeat;
 }
 
@@ -54,7 +54,7 @@ h1 {
 }
 
 .dream {
-  background-image: url("/images/dream-bg.png");
+  background-image: url("images/dream-bg.png");
   background-repeat: no-repeat;
   background-position: right;
 }
