@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, "Times New Roman", Times, serif;
+  color: white;
+}
+
+li {
+  list-style-type: none;
+  margin: 0 20px;
+  display: inline-block;
+  padding: 10px 20px;
+  font-weight: 500;
+}
+
+/* li:nth-child(even) {
+  background-color: rgb(12, 193, 238);
+}
+li:nth-child(odd) {
+  background-color: rgb(4, 160, 199);
+} */
+
+.container {
+  background-color: rgb(87, 167, 187);
+}
+
+.container ul {
+  display: flex;
+  justify-content: center;
+}
